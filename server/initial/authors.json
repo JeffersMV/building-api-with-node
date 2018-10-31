@@ -1,0 +1,19 @@
+[{
+  "email": "au1@test.com",
+  "firstName": "A 1",
+  "secondName": "A 1",
+  "book": [
+    "1",
+    "2"
+  ],
+  "birthDate": 1
+},
+{
+  "email": "au2@test.com",
+  "firstName": "A 2",
+  "secondName": "A 2",
+  "book": [
+    "1"
+  ],
+  "birthDate": 1
+}]
